@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: 09c65ae8982accf4087f0b9c73cf193b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2267084645064925693
+    second: assets_candy_0
+  - first:
+      213: 1348279144050491587
+    second: assets_candy_1
+  - first:
+      213: -136726104210694165
+    second: assets_candy_2
+  - first:
+      213: -7789607092191370913
+    second: assets_candy_3
+  - first:
+      213: 2710043610500883614
+    second: assets_candy_4
+  - first:
+      213: -3900413091619856669
+    second: assets_candy_5
+  - first:
+      213: 7597333960065793288
+    second: assets_candy_6
+  - first:
+      213: -1240936527865569021
+    second: assets_candy_7
+  - first:
+      213: 1911050579005458014
+    second: assets_candy_8
+  - first:
+      213: -2870013638577511251
+    second: assets_candy_9
+  - first:
+      213: 2096574264646072115
+    second: assets_candy_10
+  - first:
+      213: 8355983683440713047
+    second: assets_candy_11
+  - first:
+      213: 5286570278964957940
+    second: assets_candy_12
+  - first:
+      213: 538442278922104323
+    second: assets_candy_13
+  - first:
+      213: -8844089511507603482
+    second: assets_candy_14
+  - first:
+      213: -6399338431016418779
+    second: assets_candy_15
+  - first:
+      213: 1447251858572517246
+    second: assets_candy_16
+  - first:
+      213: -7028427245656540904
+    second: assets_candy_17
+  - first:
+      213: -2138188930207331536
+    second: assets_candy_18
+  - first:
+      213: -5869576683656428452
+    second: assets_candy_19
+  - first:
+      213: 2913478925176616296
+    second: assets_candy_20
+  - first:
+      213: 656573017636138776
+    second: assets_candy_21
+  - first:
+      213: 1867150056189556326
+    second: assets_candy_22
+  - first:
+      213: 667852295979236412
+    second: assets_candy_23
+  - first:
+      213: -3033743377404494586
+    second: assets_candy_24
+  - first:
+      213: 4141131073433450075
+    second: assets_candy_25
+  - first:
+      213: -5694793266576867301
+    second: assets_candy_26
+  - first:
+      213: -6068000278233758614
+    second: assets_candy_27
+  - first:
+      213: 9192016340585538293
+    second: assets_candy_28
+  - first:
+      213: -2591000227761520202
+    second: assets_candy_29
+  - first:
+      213: -1921503688981883385
+    second: assets_candy_30
+  - first:
+      213: -1636573280195623626
+    second: assets_candy_31
+  - first:
+      213: -2205864852466280427
+    second: assets_candy_32
+  - first:
+      213: 7523375087204371199
+    second: assets_candy_33
+  - first:
+      213: 7813867530358256866
+    second: assets_candy_34
+  - first:
+      213: -6167132812201720457
+    second: assets_candy_35
+  - first:
+      213: 4813630237604773586
+    second: assets_candy_36
+  - first:
+      213: -1367143700915858439
+    second: assets_candy_37
+  - first:
+      213: 6381822605318677231
+    second: assets_candy_38
+  - first:
+      213: -7716640786547823912
+    second: assets_candy_39
+  - first:
+      213: 7656987702958414461
+    second: assets_candy_40
+  - first:
+      213: -7745979734286909385
+    second: assets_candy_41
+  - first:
+      213: -710266578879679818
+    second: assets_candy_42
+  - first:
+      213: -6141155095752071387
+    second: assets_candy_43
+  - first:
+      213: -1701357415663919508
+    second: assets_candy_44
+  - first:
+      213: 6420844750554809479
+    second: assets_candy_45
+  - first:
+      213: 8493210889766129783
+    second: assets_candy_46
+  - first:
+      213: 2236318238204611833
+    second: assets_candy_47
+  - first:
+      213: 2124996973498482019
+    second: assets_candy_48
+  - first:
+      213: 6707449135385660995
+    second: assets_candy_49
+  - first:
+      213: 7875718135682687130
+    second: assets_candy_50
+  - first:
+      213: 1445256467856135901
+    second: assets_candy_51
+  - first:
+      213: -8041774647611420102
+    second: assets_candy_52
+  - first:
+      213: 3159761049299940621
+    second: assets_candy_53
+  - first:
+      213: -2960585885470585669
+    second: assets_candy_54
+  - first:
+      213: 578727545183367846
+    second: assets_candy_55
+  - first:
+      213: 6812275269138484664
+    second: assets_candy_56
+  - first:
+      213: -8137725141514600471
+    second: assets_candy_57
+  - first:
+      213: 8549367561079356499
+    second: assets_candy_58
+  - first:
+      213: 3525291919843423190
+    second: assets_candy_59
+  - first:
+      213: 7654531757774061983
+    second: assets_candy_60
+  - first:
+      213: -6701797983379114355
+    second: assets_candy_61
+  - first:
+      213: 3852492307683195465
+    second: assets_candy_62
+  - first:
+      213: 3753832421662959748
+    second: assets_candy_63
+  - first:
+      213: -3851347489780053408
+    second: assets_candy_64
+  - first:
+      213: -17878916708027677
+    second: assets_candy_65
+  - first:
+      213: -6973175486136931829
+    second: assets_candy_66
+  - first:
+      213: -2425541571748520164
+    second: assets_candy_67
+  - first:
+      213: 4311099898727846903
+    second: assets_candy_68
+  - first:
+      213: -7054108531282077470
+    second: assets_candy_69
+  - first:
+      213: -492360757042408205
+    second: assets_candy_70
+  - first:
+      213: -2580346530486238941
+    second: assets_candy_71
+  - first:
+      213: 4115318367815564760
+    second: assets_candy_72
+  - first:
+      213: -7603021844096146008
+    second: assets_candy_73
+  - first:
+      213: 8766300632928303821
+    second: assets_candy_74
+  - first:
+      213: -9211723385318589345
+    second: assets_candy_0
+  - first:
+      213: -6962554783140582266
+    second: assets_candy_1
+  - first:
+      213: 5614745865769179996
+    second: assets_candy_2
+  - first:
+      213: -908883278981380877
+    second: assets_candy_3
+  - first:
+      213: 2033601792935367588
+    second: assets_candy_4
+  - first:
+      213: 5045298619507571008
+    second: assets_candy_5
+  - first:
+      213: 8797511798336269479
+    second: assets_candy_6
+  - first:
+      213: 7005064643017313853
+    second: assets_candy_7
+  - first:
+      213: -2996384942500654449
+    second: assets_candy_8
+  - first:
+      213: 8349751496065350451
+    second: assets_candy_9
+  - first:
+      213: -1237334062295499713
+    second: assets_candy_10
+  - first:
+      213: -8490531809920883245
+    second: assets_candy_11
+  - first:
+      213: -6768578040174140268
+    second: assets_candy_12
+  - first:
+      213: 2519596571502308099
+    second: assets_candy_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assets_candy_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 693
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c3de80362692080800000000000000
+      internalID: -9211723385318589345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 598
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c65bd5059006f90800000000000000
+      internalID: -6962554783140582266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 597
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd341ed959bed40800000000000000
+      internalID: 5614745865769179996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 598
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4c506297ff263f0800000000000000
+      internalID: -908883278981380877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 599
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a392826e0ec83c10800000000000000
+      internalID: 2033601792935367588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 599
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04974810d50840640800000000000000
+      internalID: 5045298619507571008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 599
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac242f8e5a071a70800000000000000
+      internalID: 8797511798336269479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 496
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e02bbad2df63160800000000000000
+      internalID: 7005064643017313853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 498
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f825be335c3ba66d0800000000000000
+      internalID: -2996384942500654449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 498
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf2cd2fb640e370800000000000000
+      internalID: 8349751496065350451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 498
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb26cd93b14dee0800000000000000
+      internalID: -1237334062295499713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 496
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5e28bbd429b2a80800000000000000
+      internalID: -8490531809920883245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49429e8422e2112a0800000000000000
+      internalID: -6768578040174140268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30befad7bb767f220800000000000000
+      internalID: 2519596571502308099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efc4d0827b734580800000000000000
+      internalID: -8844089511507603482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 193
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c2c52a9bf037a0800000000000000
+      internalID: -6399338431016418779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 200
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f1db2c5eba51410800000000000000
+      internalID: 1447251858572517246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assets_candy_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 200
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f6f488a2067e90800000000000000
+      internalID: -7028427245656540904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

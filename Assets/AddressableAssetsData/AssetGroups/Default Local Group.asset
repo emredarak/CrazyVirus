@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dfbc57b138a057640807abc1387693eb
+  m_SerializeEntries:
+  - m_GUID: 33638206df47e4b4c87a4adca39926ad
+    m_Address: Object
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e2a707fa36795f40a49f385516a210b
+    m_Address: HorizontalView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53b2e7df4edf5f9448387dab2ae20fd5
+    m_Address: DestinationObject
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4dcb5e2f23b4e24ba4a425f6c3ea4a1
+    m_Address: GameOverView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa61bc953f6cfc3458bd87b160249e1d
+    m_Address: PlayStateView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1c8a931858722645a8eae96845ccb2c
+    m_Address: RoundView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2270dc85afc01b4aa054808a957edc5
+    m_Address: Time
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cadbb3e5a4044ad4eb426a54d8191baa
+    m_Address: ObjectsSprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4dda855ace57c144aca54c88c7fe42f
+    m_Address: NextRoundParticle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 58c8fd5ae4320094bbd34a17e68d7b81, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 94e81d562496a764aa12f7565f7461db, type: 2}
+    - {fileID: 11400000, guid: 5733398627b5f3645878263f3c2eb498, type: 2}

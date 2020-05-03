@@ -1,3 +1,4 @@
+.vscode/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -53,3 +54,4 @@ sysinfo.txt
  
 # Crashlytics generated file
 crashlytics-build.properties
+
